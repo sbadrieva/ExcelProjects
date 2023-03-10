@@ -1,11 +1,11 @@
 # Excel Project 2: Travel Expense Report
 
-* auto-gen TOC:
-{:toc}
-
 ## Author
 Shokhina Badrieva
 (shokhina.badrieva@gmail.com)
+
+## Table of Contents
+{:toc}
 
 ## Business Problem and Motivation
 For this project, I wanted to create an Interactive Employee Expense Report that dynamically updates all values based on the Employee Name. This report can be used to find key information about how much an employee has spent on travel expenses, the breakdown by year, the breakdown by type of expense, and how they compare to all other employees with easy to understand visualizations. The beauty of this report is that everything will update dynamically as new data is added into the Clean Data worksheet. Nothing needs to be done by the viewer except update the cleaned data.
