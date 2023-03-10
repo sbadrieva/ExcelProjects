@@ -1,5 +1,8 @@
 # Excel Project 2: Travel Expense Report
 
+* auto-gen TOC:
+{:toc}
+
 ## Author
 Shokhina Badrieva
 (shokhina.badrieva@gmail.com)
