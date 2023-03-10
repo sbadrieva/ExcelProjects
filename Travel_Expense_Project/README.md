@@ -2,7 +2,17 @@
 
 ## Author
 Shokhina Badrieva
-shokhina.badrieva@gmail.com
+(shokhina.badrieva@gmail.com)
 
-## Table of Contents
+## Business Problem
+
+## Data Source
+
+## Methods/Skills Used
+
+## Quick Glance at Results 
+
+## Business Insights and Use
+
+## What can be improved/ added
 
