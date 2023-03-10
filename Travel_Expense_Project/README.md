@@ -14,6 +14,13 @@ The data source is an employee expense csv file from data.world. Data from 2017-
 
 
 ## Methods/Skills Used
+The project utilizes the following skills:
+*Data Cleaning (Flash Fill, Combining Datasets, Number Formats)
+*Data Validation 
+*VBA Macros
+*Conditional Formatting
+*Linking Pivot Tables
+*Complex Functions
 
 ## Quick Glance at Results 
 
