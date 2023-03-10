@@ -15,17 +15,20 @@ The data source is an employee expense csv file from data.world. Data from 2017-
 
 ## Methods/Skills Used
 The project utilizes the following skills:
-*Data Cleaning (Flash Fill, Combining Datasets, Number Formats)
-*Data Validation 
-*VBA Macros
-*Conditional Formatting
-*Linking Pivot Tables
-*Complex Functions
+* Data Cleaning (Flash Fill, Combining Datasets, Number Formats)
+* Data Validation 
+* VBA Macros
+* Conditional Formatting
+* Linking Pivot Tables
+* Complex Functions
 
 ## Quick Glance at Results 
-![Alt text](Report_Glance.jpg "Optional title")
+![Alt text](Report_Glance.jpg "Travel Expense Report")
 
 ## Business Insights and Use
-
+A business can quickly see which employees have spent the most on travel expenses and can then click on each individual employee to see further information in the graphs. Businesses can click on an employee name and see the total expenses, trends of expenses by year, and most common type of expenses. This is all done dynamically.
 ## What can be improved/ added
-
+Improvements:
+* One thing that can make the report more visually interactive is when an employee name is picked from the drop down list, the bar that corresponds to that name is highlighted red. This will make it pop right away. 
+* Another improvement is finding a way to automaticaly get raw data into cleaned data sheet, so that when new raw data is added, the cleaned data gets automatically updated. As of now, the cleaning of the data is done manually.
+* A filtered report of details of employee expenses can be added to report. The filter function in Excel 2021 an do this easily, but unfortunately I only have Excel 2019 at this time. 
