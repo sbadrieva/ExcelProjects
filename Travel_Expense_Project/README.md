@@ -5,7 +5,7 @@ Shokhina Badrieva
 (shokhina.badrieva@gmail.com)
 
 ## Business Problem and Motivation
-For this project, I wanted to create an interactive Employee Expense Report that dynamically updates all values based on the Employee Name. This report can be used to find key information about how much an employee has spent on travel expenses, the breakdown by year, the breakdown by type of expense, and how they compare to all other employees with easy to understand visualizations. The beauty of this report is that everything will update dynamically as new data is added into the Clean Data worksheet. Nothing needs to be done by the viewer except update the cleaned data.
+For this project, I wanted to create an Interactive Employee Expense Report that dynamically updates all values based on the Employee Name. This report can be used to find key information about how much an employee has spent on travel expenses, the breakdown by year, the breakdown by type of expense, and how they compare to all other employees with easy to understand visualizations. The beauty of this report is that everything will update dynamically as new data is added into the Clean Data worksheet. Nothing needs to be done by the viewer except update the cleaned data.
 
 
 
@@ -21,6 +21,7 @@ The project utilizes the following skills:
 * Conditional Formatting
 * Linking Pivot Tables
 * Complex Functions
+* Pivot Tables and Charts
 
 ## Quick Glance at Results 
 ![Alt text](Report_Glance.jpg "Travel Expense Report")
