@@ -9,11 +9,11 @@ Shokhina Badrieva
 For this project, I wanted to create an Interactive Employee Expense Report that dynamically updates all values based on the Employee Name. This report can be used to find key information about how much an employee has spent on travel expenses, the breakdown by year, the breakdown by type of expense, and how they compare to all other employees with easy to understand visualizations. The beauty of this report is that everything will update dynamically as new data is added into the Clean Data worksheet. Nothing needs to be done by the viewer except update the cleaned data.
 
 <br>
-<br>
 
 ## Data Source
 The data source is an employee expense csv file from data.world. Data from 2017-18 and 2018-19 is combined to create a combined dataset. [Link to dataset](https://data.world/datagov-uk/9666e74f-016d-4ecf-990a-b215637479b5)
 
+<br>
 
 ## Methods/Skills Used
 The project utilizes the following skills:
@@ -25,11 +25,19 @@ The project utilizes the following skills:
 * Complex Functions
 * Pivot Tables and Charts
 
+<br>
+
 ## Quick Glance at Results 
 ![Alt text](Report_Glance.jpg "Travel Expense Report")
 
+
+<br>
+
 ## Business Insights and Use
 A business can quickly see which employees have spent the most on travel expenses and can then click on each individual employee to see further information in the graphs. Businesses can click on an employee name and see the total expenses, trends of expenses by year, and most common type of expenses. This is all done dynamically.
+
+<br>
+
 ## What can be improved/ added
 Improvements:
 * One thing that can make the report more visually interactive is when an employee name is picked from the drop down list, the bar that corresponds to that name is highlighted red. This will make it pop right away. 
