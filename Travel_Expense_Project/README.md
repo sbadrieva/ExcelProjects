@@ -10,7 +10,7 @@ For this project, I wanted to create an interactive Employee Expense Report that
 
 
 ## Data Source
-The data source is an employee expense csv file from data.world. Data from 2017-18 and 2018-19 is combined to create a combined dataset. [Link to dataset]([https://pages.github.com/](https://data.world/datagov-uk/9666e74f-016d-4ecf-990a-b215637479b5))
+The data source is an employee expense csv file from data.world. Data from 2017-18 and 2018-19 is combined to create a combined dataset. [Link to dataset](https://data.world/datagov-uk/9666e74f-016d-4ecf-990a-b215637479b5)
 
 
 ## Methods/Skills Used
