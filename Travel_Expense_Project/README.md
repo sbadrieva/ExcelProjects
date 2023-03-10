@@ -23,6 +23,7 @@ The project utilizes the following skills:
 *Complex Functions
 
 ## Quick Glance at Results 
+![Alt text](Report_Glance.jpg "Optional title")
 
 ## Business Insights and Use
 
