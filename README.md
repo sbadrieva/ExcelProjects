@@ -1,5 +1,6 @@
-# Excel Projects
-This repository holds excel data analysis projects separated into individual folders. Each folder represents a separate project and has the excel workbooks and a text file explaining the purpose of the project, skills used, and any other relevent information.
+# Portfolio Projects
+This repository holds all my data analysis portfolio projects separated into individual folders. Each folder represents a separate project and has a README.md file explaining all the details about the project. In parenthesis is the tool used for the project.
 
 # Project Descriptions
-1. Bike_Sales_Project: Bike data cleaning, pivot tables, and dashboard of key metrics in bike sales
+1. (Excel) Bike_Sales_Dashboard: Interactive dashboard that looks at key metrics that influence bike sales in a company.
+2. (Excel) Travel_Expense_Report: Dynamic and interactive report/dashboard that outlines the travel expenses of each employee.
