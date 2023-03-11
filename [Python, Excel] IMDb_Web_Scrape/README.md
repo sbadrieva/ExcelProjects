@@ -21,7 +21,7 @@ After scraping the data, I placed it into a dataframe and converted the table to
 <br>
 
 ## Data Source
-The data source is an IMDb website detailing all movies from 2023 so far. [Link to website]([https://data.world/datagov-uk/9666e74f-016d-4ecf-990a-b215637479b5](https://www.imdb.com/search/title/?title_type=feature&year=2023-01-01,2023-12-31))
+The data source is an IMDb website detailing all movies from 2023 so far. [Link to website](https://www.imdb.com/search/title/?title_type=feature&year=2023-01-01,2023-12-31)
 
 <br>
 
