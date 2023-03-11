@@ -30,7 +30,7 @@ The project utilizes the following skills:
 <br>
 
 ## Tableau Results
-The intercative tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/COVID_Exploration_Project/Dashboard1?publish=yes)
+The interactive tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/COVID_Exploration_Project/Dashboard1?publish=yes)
 
 <br>
 
