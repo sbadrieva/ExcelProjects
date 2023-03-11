@@ -32,11 +32,6 @@ The project utilizes the following skills:
 * Data Cleaning in Excel
 * Complex Functions in Excel
 
-<br>
-
-## Quick Glance at Results 
-![Alt text](Report_Glance.jpg "Travel Expense Report")
-
 
 <br>
 
