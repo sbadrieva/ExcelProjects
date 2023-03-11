@@ -34,6 +34,6 @@ The intercative tableau dashboard can be viewed [here.](https://public.tableau.c
 
 <br>
 
-##Quick Glance at Results
+## Quick Glance at Results
 ![Alt text](CovidViz.jpg "Covid Visualization")
 
