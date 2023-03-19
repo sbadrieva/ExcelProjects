@@ -1,4 +1,4 @@
-# Excel Project 3: IMDb Web Scraping project for automatic data collection and cleaning 
+# Project 3: IMDb Web Scraping project for automatic data collection and cleaning 
 
 ## Author
 Shokhina Badrieva
