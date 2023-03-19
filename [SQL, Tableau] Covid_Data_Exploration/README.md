@@ -1,4 +1,4 @@
-# Excel Project 4: Covid Dataset Exploration using complex SQL queries
+# Project 4: Covid Dataset Exploration using complex SQL queries
 
 ## Author
 Shokhina Badrieva
