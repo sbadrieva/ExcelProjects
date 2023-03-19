@@ -12,7 +12,7 @@ The goal of this project is to provide insights to the attrition within a compan
 <br>
 
 ## Data Source
-The data source is an in an excel file and is titled HR Data.xlsx in this repository. [Link to dataset](https://github.com/sbadrieva/PortfolioProjects/blob/main/%5BExcel%2C%20Tableau%5D%20HR_Analysis_Dashboard/HR%20Data.xlsx)s)
+The data source is an in an excel file and is titled HR Data.xlsx in this repository. [Link to dataset](https://github.com/sbadrieva/PortfolioProjects/blob/main/%5BExcel%2C%20Tableau%5D%20HR_Analysis_Dashboard/HR%20Data.xlsx)
 
 <br>
 
