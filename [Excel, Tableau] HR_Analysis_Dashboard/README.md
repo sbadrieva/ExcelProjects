@@ -27,12 +27,12 @@ The project utilizes the following skills:
 <br>
 
 ## Tableau Results
-The interactive tableau dashboard can be viewed [here.]([https://public.tableau.com/app/profile/shokhina.badrieva/viz/COVID_Exploration_Project/Dashboard1?publish=yes](https://public.tableau.com/app/profile/shokhina.badrieva/viz/HR_Dashboard_16791903684200/HRDashboard))
+The interactive tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/HR_Dashboard_16791903684200/HRDashboard)
 
 <br>
 
 ## Quick Glance at Results
-![Alt text](Tableau_Dashboard_Image.jpg "HR Analysis Dashboard")
+![Alt text](HR_Dashboard_Image.jpg "HR Analysis Dashboard")
 
 ## Credit
-Done with the help of [Data Tutorials]([https://www.youtube.com/watch?v=qfyynHBFOsM](https://www.youtube.com/watch?v=oTyCZVnNVZA)). 
+Done with the help of [Data Tutorials](https://www.youtube.com/watch?v=oTyCZVnNVZA). 
