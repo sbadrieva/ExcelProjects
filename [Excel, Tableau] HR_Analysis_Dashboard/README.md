@@ -7,7 +7,7 @@ Shokhina Badrieva
 <br>
 
 ## Business Problem and Motivation
-The goal of this project is to provide insights to the attrition within a company. Which grouups of people are leaving the company at higher rates, and can we figure out why these specific groups are leaving?
+The goal of this project is to provide insights to the attrition within a company. Which groups of people are leaving the company at higher rates, and can we figure out why these specific groups are leaving?
 
 <br>
 
