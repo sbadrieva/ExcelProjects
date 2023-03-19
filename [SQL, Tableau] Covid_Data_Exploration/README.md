@@ -37,3 +37,5 @@ The interactive tableau dashboard can be viewed [here.](https://public.tableau.c
 ## Quick Glance at Results
 ![Alt text](CovidViz.jpg "Covid Visualization")
 
+## Credit
+Done with the help of [Alex the Analyst](https://www.youtube.com/watch?v=qfyynHBFOsM). 
