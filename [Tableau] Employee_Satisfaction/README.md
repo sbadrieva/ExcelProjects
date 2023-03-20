@@ -16,7 +16,7 @@ We want to answer key questions when considering Employee Satisfication within a
 <br>
 
 ## Data Source
-The data source is an in an excel file and is titled Employee Satisfaction Index in this repository. It is from Kaggle. [Link to dataset](https://www.kaggle.com/datasets/mohamedharris/employee-satisfaction-index-dataset)
+The data source is an in a csv file and is titled Employee Satisfaction Index in this repository. It is from Kaggle. [Link to dataset](https://www.kaggle.com/datasets/mohamedharris/employee-satisfaction-index-dataset)
 
 <br>
 
