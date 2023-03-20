@@ -7,7 +7,12 @@ Shokhina Badrieva
 <br>
 
 ## Business Problem and Motivation
-We want to answer key questions when considering Employee Satisfication within a company. What is the satisfaction rate within our company? Do certain departments rate higher in employee satisfaction than others? Does location of employee and mode of work have an influence of the employee's satisfaction? Does salary and job level factor in? Finally do our ratings that we have given our employees reflect how satisfied they are at work? More specifically, are employees who are generally satisfied at work being rated higher in terms of performance? 
+We want to answer key questions when considering Employee Satisfication within a company. 
+1. What is the satisfaction rate within our company? 
+2. Do certain departments rate higher in employee satisfaction than others? 
+3. Does location of employee and mode of work have an influence of the employee's satisfaction? 
+4. Does salary and job level factor in? 
+5. Finally do our ratings that we have given our employees reflect how satisfied they are at work? More specifically, are employees who are generally satisfied at work being rated higher in terms of performance? 
 <br>
 
 ## Data Source
