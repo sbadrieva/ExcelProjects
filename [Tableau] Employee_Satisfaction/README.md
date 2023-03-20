@@ -33,7 +33,7 @@ The project utilizes the following skills:
 ## Tableau Results
 The interactive tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/Employee_Satisfaction_Dashboard/Dashboard)
 
-<br>
+<br> 
 
 ## Quick Glance at Results
 ![Alt text](Dashboard_Quick_Glance.jpg "Employee Satisfaction Dashboard")
