@@ -36,4 +36,4 @@ The interactive tableau dashboard can be viewed [here.](https://public.tableau.c
 <br>
 
 ## Quick Glance at Results
-![Alt text](Dashboard_Quick_Glance "Employee Satisfaction Dashboard")
+![Alt text](Dashboard_Quick_Glance.jpg "Employee Satisfaction Dashboard")
