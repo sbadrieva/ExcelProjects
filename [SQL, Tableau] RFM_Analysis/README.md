@@ -14,27 +14,23 @@ To conduct RFM analysis, we will use SQL, a powerful database language that can 
 <br>
 
 ## Data Source
-The data source is an in an excel file and is titled HR Data.xlsx in this repository. [Link to dataset](https://github.com/sbadrieva/PortfolioProjects/blob/main/%5BExcel%2C%20Tableau%5D%20HR_Analysis_Dashboard/HR%20Data.xlsx)
+The data source is an in an excel file from data.world and is titled US_Regional_Sales_Data.xlsx in this repository. [Link to dataset](https://data.world/dataman-udit/us-regional-sales-data)
 
 <br>
 
 ## Methods/Skills Used
 The project utilizes the following skills:
 * Tableau custom charts
-* Aggregation
-* KPI Analysis
-* Custom background design
+* SQL Joins, CTE's, Views, Ntiles
+* RFM Analysis
 
 
 <br>
 
 ## Tableau Results
-The interactive tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/HR_Dashboard_16791903684200/HRDashboard)
+The interactive tableau dashboard can be viewed [here.](https://public.tableau.com/app/profile/shokhina.badrieva/viz/RFM_Analysis_Dashboard/Dashboard1)
 
 <br>
 
 ## Quick Glance at Results
-![Alt text](HR_Dashboard_Image.jpg "HR Analysis Dashboard")
-
-## Credit
-Done with the help of [Data Tutorials](https://www.youtube.com/watch?v=oTyCZVnNVZA). 
+![Alt text](Quick_glance.jpg "RFM Analysis Dashboard")
