@@ -9,4 +9,4 @@ This repository holds all my data analysis portfolio projects separated into ind
 5. **[Tableau]** [Employee_Satisfaction_Dashboard](https://github.com/sbadrieva/PortfolioProjects/tree/main/Employee_Satisfaction_Dashboard
 ): Exploratory data analysis and visualization of employee satisfaction within a company using Tableau.
 6. **[SQL, Tableau]** [RFM_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Customer_RFM_Analysis): Customer Segmentation by RFM Analysis to help business target specific marketing strategies for different customer groups. 
-7. **[Python]** [Sales_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Sales_Analysis)This project provides a data-driven analysis of sales trends to inform marketing strategies and drive revenue growth.
+7. **[Python]** [Sales_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Sales_Analysis): This project provides a data-driven analysis of sales trends to inform marketing strategies and drive revenue growth.
