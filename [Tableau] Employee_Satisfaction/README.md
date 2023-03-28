@@ -1,4 +1,4 @@
-# Project 6: Employee Satisfaction Analysis and Visualization Using Tableau.
+# Project 5: Employee Satisfaction Analysis and Visualization Using Tableau.
 
 ## Author
 Shokhina Badrieva
