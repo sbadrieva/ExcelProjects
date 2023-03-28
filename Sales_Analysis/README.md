@@ -28,30 +28,48 @@ The project utilizes the following skills:
 
 ## Quick Glance at Results
 First, we grouped our data using different criteria to see total ales based on grouping. Our analysis revealed that the city of San Francisco had the highest total sales compared to other cities, while the month of December had the highest sales across all cities.
+<br>
 ![Alt text](Images/Sales_Per_City.jpg "Sales Per City")
 <br>
 ![Alt text](Images/Sales_Per_Month.jpg "Sales Per Month")
 
 <br>
+<br>
 
 To further analyze sales trends, we grouped sales data by hour to determine which hours of the day received the most orders. The purpose of this analysis is to identify the optimal times to market products and increase sales during peak hours. These insights can inform marketing strategies and help drive revenue growth by targeting specific hours of the day with promotional offers and advertising.
+<br>
 ![Alt text](Images/Orders_Per_Hour.jpg "Orders Per Hour")
+
+<br>
 <br>
 
 To gain a better understanding of sales trends per hour by city, we further analyzed the sales data by breaking it up by city and hour. This allowed us to identify specific hours of the day in each city with the highest sales, providing insights that can inform city-specific marketing strategies to optimize revenue growth.
+<br>
 ![Alt text](Images/Orders_Per_Hour_City.jpg "Orders Per Hour City")
+
+<br>
 <br>
 
 To identify which products were most commonly sold together, we first needed to understand the distribution of the number of distinct products sold per order. To do this, we calculated a histogram to visualize the distribution of the number of distinct products per order.
+<br>
 ![Alt text](Images/Distinct_Items_Per_Order.jpg "Histogram")
+
+<br>
 <br> 
 
 Through the histogram analysis, we observed that the majority of orders contained only one distinct product, while a small percentage of orders contained multiple distinct products. To identify which products were most commonly bought together for these orders, we analyzed the unique combinations of two products sold together and identified the top ten combinations. These insights can inform cross-selling and product bundling strategies to optimize revenue growth.
+<br>
+
 ![Alt text](Images/Items_Sold_Together.jpg "Items Sold Together")
+
+<br>
 <br>
 
 In our final analysis, we sought to identify the most sold products and explore the factors driving their popularity. One hypothesis we had was that cheaper products might be selling more than higher-priced products. To test this hypothesis, we created a dual axis chart that compared the total amount sold per product against the product price. Our initial results showed some correlation between price and sales, but further analysis is required to fully understand the factors driving customer purchasing behavior. These insights can help inform pricing strategies and optimize revenue growth.
+<br>
 ![Alt text](Images/Total_Orders_vs_Price_Per_Product.jpg "Product Sold vs Price")
+
+<br>
 <br>
 
 In conclusion, this project provided a comprehensive analysis of sales data that revealed insights into customer purchasing behavior, the optimal time to market products, city-specific sales trends, and popular product combinations. These findings can be used to inform marketing strategies and drive revenue growth for businesses.
