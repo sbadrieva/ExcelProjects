@@ -17,6 +17,6 @@ The best way to learn is to practice with the help of others. The internet has a
 <br>
 * **[SQL, Tableau]** [Covid_Data_Exploration](https://github.com/sbadrieva/PortfolioProjects/tree/main/Covid_Data_Exploration): Exploration of covid deaths and vaccinations up to February, 2023 by global numbers, continent, and country. 
 * **[Excel, Tableau]** [HR_Analysis_Dashboard](https://github.com/sbadrieva/PortfolioProjects/tree/main/HR_Analysis_Dashboard): Analysis of Attrition within a company and visualization using Tableau.
-* **[Python]** [Sales_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Sales_Analysis): This project provides a data-driven analysis of sales trends to inform marketing strategies and drive revenue growth.
+* **[Python]** [Sales_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Sales_Analysis): Data-driven analysis of sales trends to inform marketing strategies and drive revenue growth.
 
  
