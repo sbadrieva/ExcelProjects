@@ -1,4 +1,4 @@
-# Excel Project 2: Travel Expense Report
+# Excel Project 1: Travel Expense Report
 
 ## Author
 Shokhina Badrieva
