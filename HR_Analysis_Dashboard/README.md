@@ -35,4 +35,4 @@ The interactive tableau dashboard can be viewed [here.](https://public.tableau.c
 ![Alt text](HR_Dashboard_Image.jpg "HR Analysis Dashboard")
 
 ## Credit
-Done with the help of [Data Tutorials](https://www.youtube.com/watch?v=oTyCZVnNVZA). 
+Done with the guidance of [Data Tutorials](https://www.youtube.com/watch?v=oTyCZVnNVZA). 
