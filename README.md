@@ -19,3 +19,4 @@ The best way to learn is to practice with the help of others. The internet has a
 * **[Excel, Tableau]** [HR_Analysis_Dashboard](https://github.com/sbadrieva/PortfolioProjects/tree/main/HR_Analysis_Dashboard): Analysis of Attrition within a company and visualization using Tableau.
 * **[Python]** [Sales_Analysis](https://github.com/sbadrieva/PortfolioProjects/tree/main/Sales_Analysis): This project provides a data-driven analysis of sales trends to inform marketing strategies and drive revenue growth.
 
+ 
