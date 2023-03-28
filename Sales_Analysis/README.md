@@ -20,14 +20,15 @@ The data source is an in an excel file in this repository in the folder titled "
 ## Methods/Skills Used
 The project utilizes the following skills:
 
-*Python pandas
-*Python matplotlib
-*Joins
-*Custom functions
+* Python pandas
+* Python matplotlib
+* Joins
+* Custom functions
 
 
 ## Quick Glance at Results
 First, we grouped our data using different criteria to see total ales based on grouping. Our analysis revealed that the city of San Francisco had the highest total sales compared to other cities, while the month of December had the highest sales across all cities.
+<br>
 <br>
 ![Alt text](Images/Sales_Per_City.jpg "Sales Per City")
 <br>
