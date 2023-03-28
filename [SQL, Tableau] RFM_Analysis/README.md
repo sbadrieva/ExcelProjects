@@ -1,4 +1,4 @@
-# Project 7: RFM (Recency, Frequency, Monetary) Analysis on US Regional Sales
+# Project 6: RFM (Recency, Frequency, Monetary) Analysis on US Regional Sales
 
 ## Author
 Shokhina Badrieva
