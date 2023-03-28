@@ -75,3 +75,5 @@ In our final analysis, we sought to identify the most sold products and explore 
 
 In conclusion, this project provided a comprehensive analysis of sales data that revealed insights into customer purchasing behavior, the optimal time to market products, city-specific sales trends, and popular product combinations. These findings can be used to inform marketing strategies and drive revenue growth for businesses.
 
+## Credit
+Done with the guidance of [Keith Galli](https://www.youtube.com/watch?v=eMOA1pPVUc4). Additional original analysis added to the analyses done in linked video.
