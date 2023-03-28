@@ -1,4 +1,4 @@
-# Project 5: HR Analysis of Attrition within a company and use of Tableau for data visualization.
+# Project 4: HR Analysis of Attrition within a company and use of Tableau for data visualization.
 
 ## Author
 Shokhina Badrieva
