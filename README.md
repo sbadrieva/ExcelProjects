@@ -13,7 +13,7 @@ Check out my original projects where I collected, cleaned, analyzed and visualiz
 <br>
 
 # Guided Projects
-The best way to learn is to practice with the help of others. The internet has a plethora of information to help us learn the skills needed to solve business problems. Check out my guided projects in which I learned many invaluable skills below!
+The best way to learn is to practice with the help of others. Check out my guided projects in which I learned many invaluable skills below!
 <br>
 * **[SQL, Tableau]** [Covid_Data_Exploration](https://github.com/sbadrieva/PortfolioProjects/tree/main/Covid_Data_Exploration): Exploration of covid deaths and vaccinations up to February, 2023 by global numbers, continent, and country. 
 * **[Excel, Tableau]** [HR_Analysis_Dashboard](https://github.com/sbadrieva/PortfolioProjects/tree/main/HR_Analysis_Dashboard): Analysis of Attrition within a company and visualization using Tableau.
