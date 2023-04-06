@@ -33,7 +33,7 @@ The cohort date represents the month that a customer made a first purchase in th
 
 So for example, of the 885 new customers in December, 2010, 324 of them made a purchase in January. 286 of them made a purchase in February and so on. This analysis can help us show how many customers in each cohort (time they started purchasing from the company) we are able to retain over time. 
 
-This analysis is not a stand alone analysis that can give direct insights as to why the cohort retention is lower for some groups, but 
+This analysis is not a stand alone analysis that can give direct insights as to why the cohort retention is lower for some groups, but it is an essential tool in analyzing the retention of each cohort and with other analyses can paint a much better picture of how to retain more customer in a company.
 
 ## Tableau Public Link
 [Link to visualization](https://public.tableau.com/app/profile/shokhina.badrieva/viz/Cohort_Retention_Analysis/Dashboard1)
