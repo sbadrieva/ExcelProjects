@@ -26,10 +26,10 @@ The project utilizes the following skills:
 
 ## Quick Glance at Results
 
-![Alt text]( "Cohort_Analysis_Quick_Glance.jpg, Cohort_Retention")
+![Alt text]( "Cohort_Analysis_Quick_Glance.jpg Cohort_Retention")
 
 ## Tableau Public Link
 [Link to visualization](https://public.tableau.com/app/profile/shokhina.badrieva/viz/Cohort_Retention_Analysis/Dashboard1)
 
 ## Credit
-Done with the guidance of [Angelina Frimpong](https://www.youtube.com/watch?v=LXqpx9mr0Is)
+Done with the guidance of [Angelina Frimpong](https://www.youtube.com/watch?v=LXqpx9mr0Is).
