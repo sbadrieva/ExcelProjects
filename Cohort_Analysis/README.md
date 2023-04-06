@@ -28,6 +28,13 @@ The project utilizes the following skills:
 
 ![Alt text](Cohort_Analysis_Quick_Glance.jpg "Cohort_Retention")
 
+## How to interpret the results and gain insights
+The cohort date represents the month that a customer made a first purchase in the company. So for example, in the month of December, 2010, 885 new customers made a purchase. The cohort index represents how many customers made a purchase the second month, third month, fourth month, etc for each cohort period. 
+
+So for example, of the 885 new customers in December, 2010, 324 of them made a purchase in January. 286 of them made a purchase in February and so on. This analysis can help us show how many customers in each cohort (time they started purchasing from the company) we are able to retain over time. 
+
+This analysis is not a stand alone analysis that can give direct insights as to why the cohort retention is lower for some groups, but 
+
 ## Tableau Public Link
 [Link to visualization](https://public.tableau.com/app/profile/shokhina.badrieva/viz/Cohort_Retention_Analysis/Dashboard1)
 
